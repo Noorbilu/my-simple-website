@@ -1,5 +1,13 @@
 div{
-    background-color: brown;
-    
+    background-color: rgb(163, 182, 176);
+    color: #385d5d;
+    padding: 20px 20px 20px 20px;
+    width: 50%;
+    margin: 5px;
 
+
+}
+.wow{
+    text-align: center;
+    text-decoration: wavy;
 }
